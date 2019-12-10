@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const TOKEN = 'NDg2MTY5MTM5NTUyMTkwNDc1.Dm7teg.pAcWGl6AjBitYpZNMpUqZI9Exsk'
+const TOKEN = 'token'
 
 bot.on('message', function(message){
     if(message.content == '!Google')
