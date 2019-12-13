@@ -1,5 +1,5 @@
-﻿using System;
-{
+#include <iostream>
 
-    Console.WriteLine("More Code")
+int main(){
+    std::cout << "C++ is superior to C#\n";
 }
